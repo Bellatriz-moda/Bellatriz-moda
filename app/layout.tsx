@@ -1,10 +1,5 @@
 import React from "react";
 
-export const metadata = {
-  title: "Bellatriz Moda",
-  description: "Moda feminina, fitness e biquínis",
-};
-
 export default function RootLayout({
   children,
 }: {
@@ -16,3 +11,4 @@ export default function RootLayout({
     </html>
   );
 }
+
