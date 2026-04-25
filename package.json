@@ -1,15 +1,7 @@
-{
-  "name": "bellatriz-moda",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "next build"
-  },
-  "dependencies": {
-    "next": "14.0.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "framer-motion": "10.16.16",
-    "lucide-react": "0.468.0"
-  }
+"dependencies": {
+  "next": "14.0.0",
+  "react": "18.2.0",
+  "react-dom": "18.2.0",
+  "framer-motion": "^10.16.16",
+  "lucide-react": "^0.292.0"
 }
